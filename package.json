@@ -1,8 +1,8 @@
 {
-	"name": "Priyansh",
+	"name": "ArYAN",
 	"version": "10.1.1",
-	"description": "A simple Facebook Messenger Bot made by 𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭.",
-	"main": "Priyansh.js",
+	"description": "A simple Facebook Messenger Bot made by Ar Yan.",
+	"main": "ArYan.js",
 	"scripts": {
 		"start": "node index.js",
 		"login": "node login",
@@ -10,24 +10,24 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Priyansh-11/Priyansh-bot"
+		"url": "https://github.com/ARYAN-ROBOT"
 	},
 	"keywords": [
 		"bot",
 		"facebook",
-		"projectpriyansh",
+		"projectArYan",
 		"messenger",
 		"javasvript",
 		"priyanshu",
 		"prince",
 		"mental"
 	],
-	"author": "𝐏𝐫𝐢𝐲𝐚𝐧𝐬𝐡 𝐑𝐚𝐣𝐩𝐮𝐭",
+	"author": "ArYAN RAJ",
 	"license": "GPL-3.0",
 	"bugs": {
-		"url": "https://github.com/Priyansh-11/Priyansh-bot/issues"
+		"url": "https://github.com/ARYAN-ROBOT/issues"
 	},
-	"homepage": "https://github.com/Priyansh-11/Priyansh-bot/",
+	"homepage": "https://github.com/ARYAN-ROBOT",
 	"dependencies": {
     "@distube/ytdl-core": "^4.13.2",
     "@miraipr0ject/assets": "^1.0.9",
@@ -51,7 +51,7 @@
 		"eval": "^0.1.8",
 		"extract-zip": "^2.0.1",
     "fb-tools": "0.0.1-security",
-		"fca-priyansh": "^14.0.0",
+		"fca-ArYan": "^14.0.0",
     "figlet": "^1.5.2",
 		"form-data": "^4.0.0",
 		"fs-extra": "^10.1.0",
